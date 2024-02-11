@@ -11,7 +11,7 @@ import SwiftUI
 struct ScrollingApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ParallaxMainView()
         }
     }
 }
